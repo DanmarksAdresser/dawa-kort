@@ -18,7 +18,7 @@
     "proj4leaflet": "^1.0.2"
   },
   "devDependencies": {
-    "webpack": "^3.5.5",
+    "webpack": "^5.75.0",
     "jshint": "^2.9.5"
   }
 }
